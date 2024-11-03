@@ -1,0 +1,5 @@
+include:
+  - project: pipelines/pipeline-templates
+    ref: main
+    file:
+        - templates/sphinx-docs.yml
