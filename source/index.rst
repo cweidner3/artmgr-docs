@@ -1,6 +1,13 @@
 Art Manager documentation
 =========================
 
+!NOTICE!
+
+This project is still being initially brought up and is not quite
+ready for any serious adoptions.
+
+!NOTICE!
+
 This application is aimed towards artists interested in maintaining a database
 of information on the works created. This provides methods for keeping track of
 what has been sold as well as what works are still avaliable and where they are
